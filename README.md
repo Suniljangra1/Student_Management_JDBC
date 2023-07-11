@@ -1,1 +1,1 @@
-# Student_Management_JDBC
+# Student_Management_JDBC_JAVA
